@@ -1,4 +1,9 @@
 
-[![Jon's Github stats](https://github-readme-stats.vercel.app/api?username=jontrossbach&hide_rank=true&show_icons=true&count_private=true)](https://github.com/jontrossbach/github-readme-stats)
+<a href="https://github.com/jontrossbach/github-stats">
+
+![](https://github.com/jontrossbach/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jontrossbach/github-stats/blob/master/generated/languages.svg)
+
+</a>
 
 ### Also see my [GitLab](https://gitlab.com/jontrossbach).
