@@ -6,4 +6,4 @@
 
 </a>
 
-### Also see my [GitLab](https://gitlab.com/jontrossbach).
+### Also see my [GitLab](https://gitlab.com/jontrossbach) and [Substack](https://trossbach.substack.com/s/the-conscience-of-a-computer-engineer).
